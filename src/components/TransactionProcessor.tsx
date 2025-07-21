@@ -60,7 +60,7 @@ const TransactionProcessor: React.FC = () => {
   const renderSelectionView = () => (
     <div className="max-w-4xl mx-auto space-y-8">
       <div className="text-center">
-        <h1 className="text-3xl font-bold text-gray-900 mb-4">BSE Star Mutual Fund Platform</h1>
+        <h1 className="text-3xl font-bold text-gray-900 mb-4">Transaction Platform</h1>
         <p className="text-lg text-gray-600">Process transactions for your clients with ease</p>
       </div>
 
